@@ -1,0 +1,7 @@
+goos: darwin
+goarch: arm64
+pkg: homework_slurm/hm_19950_64811
+cpu: Apple M4 Pro
+BenchmarkSumOfSquaresFast-12    	   58510	     19264 ns/op	     992 B/op	      27 allocs/op
+PASS
+ok  	homework_slurm/hm_19950_64811	1.726s
